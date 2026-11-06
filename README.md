@@ -2,6 +2,8 @@
 
 Aplicación Laravel que muestra las métricas del servidor por WebSocket usando **Laravel Reverb + Laravel Echo**, con gráficos en vivo de **Chart.js**, apertura de programas en el servidor mediante una lista blanca y una lista de actividad compartida entre todos los navegadores.
 
+**Repositorio:** https://github.com/nadiamc/monitor-tiemporeal
+
 ## Stack
 
 - Laravel 13
